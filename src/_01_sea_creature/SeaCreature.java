@@ -9,6 +9,14 @@ import java.applet.AudioClip;
 
 public class SeaCreature {
 	
+	public String judgeName(String name) {
+		if (name.equalsIgnoreCase("Alvontay")) {
+			return "awesome";
+		}
+		
+		return "lame";
+	}
+	
 	// 1. In a Runner class, make a SeaCreature called "Spongebob". Use the methods below to make him eat, and laugh.
 	// 2. Make Patrick and Squidward and print their name, have them eat, and make them laugh.
 
@@ -38,3 +46,12 @@ public class SeaCreature {
 	}
 
 }
+
+
+
+
+
+
+
+
+

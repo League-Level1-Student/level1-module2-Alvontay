@@ -24,6 +24,8 @@ This is because there is no Minion class in the package.
   			private int eyes; 
   			private String color; 
   			private String master;
+  			
+ 
 
  3.
   Next, create a constructor, and getters and setters for all the member variables of the Minion class. 

@@ -21,6 +21,7 @@ import javax.swing.JPanel;
 
 
 public class PixelParty {
+	
 	public static int BLACK = getColor(255, 0, 0, 0);
 	public int currentColor = BLACK;
 	
